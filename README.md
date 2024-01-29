@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! 👋 I'm Alok Mishra, a passionate software developer with a keen interest in Java, Python, and PHP. I thrive on collaborative projects that challenge and expand my skills.
+Hello! 👋 I'm Alok Mishra, a passionate web developer with a keen interest in Java, Python, and PHP. I thrive on collaborative projects that challenge and expand my skills.
 
 ## Interests
 
