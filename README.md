@@ -2,13 +2,13 @@
 
 ## About Me
 
-Hello! 👋 I'm Alok Mishra, a passionate web developer with a keen interest in Java, Python, and PHP. I thrive on collaborative projects that challenge and expand my skills.
+Hello! 👋 I'm Alok Mishra, a passionate web developer with a keen interest in React, PHP, and Java.  I enjoy collaborative projects that challenge and improve my skills.
 
 ## Interests
 
-- **Java:** Proficient in building robust and scalable applications using Java.
-- **Python:** Enthusiastic about leveraging Python for its versatility and readability.
+- **React:** Currently exploring modern front-end development with React.
 - **PHP:** Well-versed in server-side scripting and building dynamic web applications.
+- **Java:** Proficient in building robust and scalable applications using Java.
 
 ## Collaboration
 
@@ -20,9 +20,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/alok-mishra-95090b266)
 
 ## Learning Journey
 
-Currently, I am focused on expanding my skills in web development with a keen interest in:
+Currently focusing on Full Stack Development in React. 
 
-- **React:** Exploring the world of modern front-end development.
-- **Angular:** Diving into the robust framework for building dynamic web applications.
 
 Let's connect and explore the endless possibilities of coding together!
