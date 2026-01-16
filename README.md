@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alok Mishra
 
-### 🚀 Full Stack Web Developer | MERN Stack Specialist
+### 🚀 Full Stack Web Developer | MERN Stack Developer
 
 I’m passionate about building **structured, scalable, real-world web applications**. I enjoy collaborating on projects that challenge my skills.
 
@@ -43,7 +43,7 @@ I’m passionate about building **structured, scalable, real-world web applicati
   <a href="https://www.linkedin.com/in/alok-mishra-95090b266">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://am-mern-stack-developer-portfolio.vercel.app">
+  <a href="https://bit.ly/45s6mzB">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
